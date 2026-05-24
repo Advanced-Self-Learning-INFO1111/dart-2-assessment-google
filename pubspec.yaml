@@ -1,0 +1,7 @@
+name: dart_2_assessment_google
+description: A small Dart shop app
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  simple_api_call: ^1.0.0
